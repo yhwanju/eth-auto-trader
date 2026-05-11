@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+trade_signal_log.csv
+backtest_result.csv
+position.txt
